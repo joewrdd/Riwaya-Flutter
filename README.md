@@ -179,6 +179,10 @@ lib/
   </div>
 </div>
 
+## Youtube Link For Demo Of The App
+
+[Watch The Demo On YouTube](https://www.youtube.com/shorts/jx3vP4s0-Ew)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.

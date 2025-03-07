@@ -1,0 +1,42 @@
+name: riwaya
+description: "Riwaya Coffee Shop."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+  get: ^4.6.5
+  flutter_svg: ^2.0.10+1
+  curved_navigation_bar: ^1.0.6
+  flutter_launcher_icons: ^0.14.3
+  firebase_core: ^3.12.1
+  firebase_auth: ^5.5.1
+  cloud_firestore: ^5.6.5
+  firebase_storage: ^12.4.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path_ios: "assets/riwaya.-2.png"
+  image_path_android: "assets/riwaya.-2.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/bakery/
+    - assets/drinks/
+    - assets/hot teas/
+    - assets/hot coffee/

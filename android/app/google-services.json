@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249885212301",
+    "project_id": "riwaya-92266",
+    "storage_bucket": "riwaya-92266.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249885212301:android:126981a0c2e6d9793c6cc4",
+        "android_client_info": {
+          "package_name": "com.example.riwaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzKsVsqRk_AufoOH7DAudVUUcMUfCxR6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

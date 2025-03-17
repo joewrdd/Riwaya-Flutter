@@ -74,7 +74,7 @@ git clone https://github.com/joewrdd/Riwaya.git
 2. Install dependencies
 
 ```bash
-cd riwaya
+cd riwaya.
 flutter pub get
 ```
 

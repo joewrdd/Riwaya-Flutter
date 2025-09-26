@@ -56,7 +56,7 @@ class ProductHeader extends StatelessWidget {
               '\$${product.price.toStringAsFixed(2)}',
               style: const TextStyle(
                 color: firstColor,
-                fontSize: 26,
+                fontSize: 23,
                 fontWeight: FontWeight.w900,
               ),
             ),

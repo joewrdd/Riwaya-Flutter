@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
 import 'package:riwaya/utils/constants/colors.dart';
-import 'package:riwaya/views/app/screens/home.dart';
-import 'package:riwaya/views/app/screens/menu.dart';
+import 'package:riwaya/views/app/home.dart';
+import 'package:riwaya/views/app/screens/menu/menu.dart';
 import 'package:riwaya/views/app/screens/subscription.dart';
 
 // Move NavigationController to top-level

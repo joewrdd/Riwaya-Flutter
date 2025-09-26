@@ -8,7 +8,7 @@ import 'package:riwaya/utils/constants/colors.dart';
 import 'package:riwaya/views/app/screens/details.dart';
 import 'package:riwaya/views/app/screens/notifications.dart';
 import 'package:riwaya/views/app/screens/settings.dart';
-import '../../../ui/product_model.dart';
+import '../../ui/product_model.dart';
 import 'package:get/get.dart';
 import 'package:riwaya/views/app/controllers/home_controller.dart';
 import 'package:riwaya/utils/custom/clip.dart';

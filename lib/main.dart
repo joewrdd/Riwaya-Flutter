@@ -2,8 +2,8 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:get/get.dart';
+import 'package:riwaya/views/app/screens/menu/menu.dart';
 import 'views/app/controllers/cart_controller.dart';
-import 'views/auth/screens/login_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       debugShowCheckedModeBanner: false,
-      home: const LoginScreen(),
+      home: const MenuPage(),
     );
   }
 }
